@@ -1,3 +1,3 @@
 # Mini-Project-UWO241
 genome assembly, genome annotation, cloud computing
-For further information, please visit the Wiki 
+For further information, please visit the [Wiki](https://github.com/broadinstitute/pilon/wiki) 
