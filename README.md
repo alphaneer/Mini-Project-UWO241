@@ -5,4 +5,4 @@ For further information, please visit the [Wiki](https://github.com/zx0223winner
 
 A perfect genome : sit still though long way to go
 
-Refer to my [in house guide]() to follow our pipeline. This doc is currently in progress and being updated regularly.
+Refer to my [in house guide](https://github.com/zx0223winner/Mini-Project-UWO241/wiki/Module-2:-Genome-Annotation) to follow our pipeline. This doc is currently in progress and being updated regularly.
